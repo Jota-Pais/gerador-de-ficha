@@ -15,6 +15,7 @@ import {
   TIEFLING
 } from './racas.data';
 
+import { BARBARO, BARDO, BRUXO, CLERIGO, DRUIDA, GUERREIRO, LADINO, MAGO, MONGE, PALADINO, RANGER } from './classe.data';
 
 export const TODAS_AS_RACAS = [
   ANAO_DA_COLINA,
@@ -32,3 +33,16 @@ export const TODAS_AS_RACAS = [
   MEIO_ORC,
   TIEFLING
 ];
+export const TODAS_AS_CLASSES = [
+  BARBARO,
+  BARDO,
+  BRUXO,
+  CLERIGO,
+  DRUIDA,
+  GUERREIRO,
+  LADINO,
+  MAGO,
+  MONGE,
+  PALADINO,
+  RANGER
+]

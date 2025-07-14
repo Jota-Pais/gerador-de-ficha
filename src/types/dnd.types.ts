@@ -16,3 +16,11 @@ export interface Raça {
   idiomas: string[]; 
 
 }
+
+export interface Classe {
+  nome: string;
+  dado_vida: number;
+  proficiencias:  string[];
+  resistencias: string[];
+  pericias: string[];
+}

@@ -1,0 +1,16 @@
+# Dependências e arquivos de build
+/node_modules
+/dist
+/build
+npm-debug.log
+
+# Arquivos de Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de IDEs e Editores
+.vscode/
+.idea/
+
+# Arquivos de ambiente (segredos nunca devem ir pro git!)
+.env
