@@ -108,7 +108,7 @@ export const HALFLING_ROBUSTO: Raça = {
 // --- HUMANO ---
 export const HUMANO: Raça = {
     nome: "Humano",
-    bonus_atributos: { "Força": 1, "Destreza": 1, "Constituição": 1, "Inteligência": 1, "Sabedoria": 1, "Carisma": 1 },
+    bonus_atributos: { "Força": 1, "Destreza": 1, "Constituição": 1, "Inteligência": 1, "Sabedoria": 1, "Carisma": 1 }, 
     tracos: [],
     deslocamento: 9,
     idiomas: ["Comum"] // Mais um idioma à escolha do jogador

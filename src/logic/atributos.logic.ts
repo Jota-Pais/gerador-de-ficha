@@ -14,7 +14,19 @@ export function calcularFicha(raca: Raça, classe: Classe, nivel: number, atribu
       atributosFinais[nomeAtributo] = valorBase + bonus;
     }
   }
+  // limita atributos finais
+  for (const atributo of Object.keys(atributosFinais) as Array<keyof Atributos>) {
+    const valorAtual = atributosFinais[atributo];
+    let limite = 20; 
+    if (classe.nome === "Bárbaro" && nivel === 20 && (atributo === 'Força' || atributo === 'Constituição')) {
+      limite = 24; }
+    if (valorAtual > limite) {
+      atributosFinais[atributo] = limite;
+    }
+  }
 
+
+  // ------ VIDA MAXIMA ----------
   const modConstituicao = calcularModificador(atributosFinais.Constituição);
   let vidaMaxima = 0;
   vidaMaxima += classe.dado_vida + modConstituicao; 
