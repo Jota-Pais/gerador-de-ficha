@@ -45,13 +45,13 @@ Para rodar este projeto localmente, siga os passos abaixo.
 1.  **Clone o repositório:**
 
     ```bash
-    git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+    git clone https://github.com/Jota-Pais/gerador-de-ficha.git
     ```
 
 2.  **Navegue até a pasta do projeto:**
 
     ```bash
-    cd NOME_DA_PASTA_DO_REPOSITORIO
+    cd gerador-de-ficha
     ```
 
 3.  **Instale as dependências:**
