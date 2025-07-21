@@ -1,0 +1,8 @@
+{
+  "nome": "Druida",
+  "dado_vida": 8,
+  "proficiencias": ["Armaduras leves (não metálicas)", "Armaduras médias (não metálicas)", "Escudos (não metálicos)", "Clavas", "Adagas", "Dardos", "Azagaias", "Maças", "Bordões", "Cimitarras", "Fuinhas", "Lanças"],
+  "resistencias": ["Inteligencia", "Sabedoria"],
+  "pericias": ["Arcanismo", "Adestrar_Animais", "Intuicao", "Medicina", "Natureza", "Percepcao", "Religiao", "Sobrevivencia"],
+  "numero_pericias_escolha": 2
+}

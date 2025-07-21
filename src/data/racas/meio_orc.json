@@ -1,0 +1,12 @@
+{
+    "nome": "Meio-Orc",
+    "bonus_atributos": { "Força": 2, "Constituição": 1 },
+    "tracos": [
+      "VisaoNoEscuro",
+      "Ameacador",
+      "ResistenciaImplacavel",
+      "AtaquesSelvagens"
+    ],
+    "deslocamento": 9,
+    "idiomas": ["Comum", "Órquico"]
+}

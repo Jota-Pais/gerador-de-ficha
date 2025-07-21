@@ -1,0 +1,11 @@
+{
+    "nome": "Meio-Elfo",
+    "bonus_atributos": { "Carisma": 2 },
+    "tracos": [
+      "VisaoNoEscuro",
+      "AncestralFeerico",
+      "VersatilidadeEmPericia"
+    ],
+    "deslocamento": 9,
+    "idiomas": ["Comum", "Élfico"]
+}

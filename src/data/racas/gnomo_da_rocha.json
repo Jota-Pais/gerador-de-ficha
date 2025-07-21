@@ -1,0 +1,12 @@
+{
+    "nome": "Gnomo da Rocha",
+    "bonus_atributos": { "Inteligência": 2, "Constituição": 1 },
+    "tracos": [
+      "VisaoNoEscuro",
+      "EspertezaGnomica",
+      "ConhecimentoDeArtifice",
+      "Engenhoqueiro"
+    ],
+    "deslocamento": 7.5,
+    "idiomas": ["Comum", "Gnômico"]
+}

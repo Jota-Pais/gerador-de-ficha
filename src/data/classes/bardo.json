@@ -1,0 +1,8 @@
+{
+  "nome": "Bardo",
+  "dado_vida": 8,
+  "proficiencias": ["Armaduras leves", "Armas simples", "Bestas de mão", "Espadas longas", "Rapiers", "Espadas curtas"],
+  "resistencias": ["Destreza", "Carisma"],
+  "pericias": [ "Acrobacia","Arcanismo","Atletismo","Atuacao","Enganacao","Furtividade","Histria","Intimidacao","Intuicao","Investigacao","Adestrar_animais","Medicina","Natureza","Percepcao","Persuasao","Prestidigitacao", "Religiao","Sobrevivencia"],
+  "numero_pericias_escolha": 3
+}

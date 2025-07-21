@@ -1,0 +1,8 @@
+{
+  "nome": "Guerreiro",
+  "dado_vida": 10,
+  "proficiencias": ["Todas as armaduras", "Escudos", "Armas simples", "Armas marciais"],
+  "resistencias": ["Forca", "Constituicao"],
+  "pericias": ["Acrobacia", "Adestrar_Animais", "Atletismo", "Historia", "Intuicao", "Intimidacao", "Percepcao", "Sobrevivencia"],
+  "numero_pericias_escolha": 2
+}

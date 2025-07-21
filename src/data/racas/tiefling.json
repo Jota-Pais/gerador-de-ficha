@@ -1,0 +1,11 @@
+{
+    "nome": "Tiefling",
+    "bonus_atributos": { "Carisma": 2, "Inteligência": 1 },
+    "tracos": [
+      "VisaoNoEscuro",
+      "ResistenciaInfernal",
+      "LegadoInfernal"
+    ],
+    "deslocamento": 9,
+    "idiomas": ["Comum", "Infernal"]
+}

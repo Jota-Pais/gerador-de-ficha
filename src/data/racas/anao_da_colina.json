@@ -1,0 +1,14 @@
+{
+  "nome": "Anão da Colina",
+  "bonus_atributos": { "Constituição": 2, "Sabedoria": 1 },
+  "tracos": [
+    "VisaoNoEscuro",
+    "ResilienciaAna",
+    "TreinamentoAnaoEmCombate",
+    "ProficienciaComFerramentas",
+    "EspecializacaoEmRochas",
+    "TenacidadeAna"
+  ],
+  "deslocamento": 7.5,
+  "idiomas": ["Comum", "Anão"]
+}

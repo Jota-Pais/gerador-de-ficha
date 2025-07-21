@@ -1,0 +1,8 @@
+{
+  "nome": "Mago",
+  "dado_vida": 6,
+  "proficiencias": ["Adagas", "Dardos", "Fuinhas", "Bordões", "Bestas leves"],
+  "resistencias": ["Inteligencia", "Sabedoria"],
+  "pericias": ["Arcanismo", "Historia", "Intuicao", "Investigacao", "Medicina", "Religiao"],
+  "numero_pericias_escolha": 2
+}

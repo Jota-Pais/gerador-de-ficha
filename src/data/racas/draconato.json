@@ -1,0 +1,11 @@
+{
+    "nome": "Draconato",
+    "bonus_atributos": { "Força": 2, "Carisma": 1 },
+    "tracos": [
+      "AncestralDraconico",
+      "ArmaDeSopro",
+      "ResistenciaADano"
+    ],
+    "deslocamento": 9,
+    "idiomas": ["Comum", "Dracônico"]
+}

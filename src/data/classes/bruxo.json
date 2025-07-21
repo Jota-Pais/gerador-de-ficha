@@ -1,0 +1,8 @@
+{
+  "nome": "Bruxo",
+  "dado_vida": 8,
+  "proficiencias": ["Armaduras leves", "Armas simples"],
+  "resistencias": ["Sabedoria", "Carisma"],
+  "pericias": ["Arcanismo", "Enganacao", "Historia", "Intimidacao", "Investigacao", "Natureza", "Religiao"],
+  "numero_pericias_escolha": 2
+}

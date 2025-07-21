@@ -1,0 +1,8 @@
+{
+  "nome": "Clérigo",
+  "dado_vida": 8,
+  "proficiencias": ["Armaduras leves", "Armaduras médias", "Escudos", "Armas simples"],
+  "resistencias": ["Sabedoria", "Carisma"],
+  "pericias": ["Historia", "Intuicao", "Medicina", "Persuasao", "Religiao"],
+  "numero_pericias_escolha": 2
+}

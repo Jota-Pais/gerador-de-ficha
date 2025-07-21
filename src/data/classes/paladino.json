@@ -1,0 +1,8 @@
+{
+  "nome": "Paladino",
+  "dado_vida": 10,
+  "proficiencias": ["Todas as armaduras", "Escudos", "Armas simples", "Armas marciais"],
+  "resistencias": ["Sabedoria", "Carisma"],
+  "pericias": ["Atletismo", "Intuicao", "Intimidacao", "Medicina", "Persuasao", "Religiao"],
+  "numero_pericias_escolha": 2
+}

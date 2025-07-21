@@ -1,0 +1,12 @@
+{
+    "nome": "Halfling Robusto",
+    "bonus_atributos": { "Destreza": 2, "Constituição": 1 },
+    "tracos": [
+      "Sortudo",
+      "Bravura",
+      "AgilidadeHalfling",
+      "ResilienciaDosRobustos"
+    ],
+    "deslocamento": 7.5,
+    "idiomas": ["Comum", "Halfling"]
+}

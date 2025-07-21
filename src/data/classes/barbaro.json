@@ -1,0 +1,8 @@
+{
+  "nome": "Bárbaro",
+  "dado_vida": 12,
+  "proficiencias": ["Armaduras leves", "Armaduras médias", "Escudos", "Armas simples", "Armas marciais"],
+  "resistencias": ["Forca", "Constituicao"],
+  "pericias": ["Adestrar_Animais", "Atletismo", "Intimidacao", "Natureza", "Percepcao", "Sobrevivencia"],
+  "numero_pericias_escolha": 2
+}

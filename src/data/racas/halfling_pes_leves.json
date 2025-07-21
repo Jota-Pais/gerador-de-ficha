@@ -1,0 +1,12 @@
+{
+    "nome": "Halfling Pés Leves",
+    "bonus_atributos": { "Destreza": 2, "Carisma": 1 },
+    "tracos": [
+      "Sortudo",
+      "Bravura",
+      "AgilidadeHalfling",
+      "FurtividadeNatural"
+    ],
+    "deslocamento": 7.5,
+    "idiomas": ["Comum", "Halfling"]
+}

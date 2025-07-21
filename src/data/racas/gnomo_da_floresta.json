@@ -1,0 +1,12 @@
+{
+    "nome": "Gnomo da Floresta",
+    "bonus_atributos": { "Inteligência": 2, "Destreza": 1 },
+    "tracos": [
+      "VisaoNoEscuro",
+      "EspertezaGnomica",
+      "IlusionistaNato",
+      "FalarComBestasPequenas"
+    ],
+    "deslocamento": 7.5,
+    "idiomas": ["Comum", "Gnômico"]
+}

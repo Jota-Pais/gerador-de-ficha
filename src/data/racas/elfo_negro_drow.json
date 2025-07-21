@@ -1,0 +1,15 @@
+{
+    "nome": "Elfo Negro (Drow)",
+    "bonus_atributos": { "Destreza": 2, "Carisma": 1 },
+    "tracos": [
+      "VisaoNoEscuro",
+      "SentidosAgucados",
+      "AncestralFeerico",
+      "Transe",
+      "SensibilidadeALuzSolar",
+      "MagiaDrow",
+      "TreinamentoDrowComArmas"
+    ],
+    "deslocamento": 9,
+    "idiomas": ["Comum", "Élfico", "Subterrâneo"]
+}

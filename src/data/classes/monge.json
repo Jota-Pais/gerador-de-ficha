@@ -1,0 +1,8 @@
+{
+  "nome": "Monge",
+  "dado_vida": 8,
+  "proficiencias": ["Armas simples", "Espadas curtas"],
+  "resistencias": ["Forca", "Destreza"],
+  "pericias": ["Acrobacia", "Atletismo", "Furtividade", "Historia", "Intuicao", "Religiao"],
+  "numero_pericias_escolha": 2
+}

@@ -1,0 +1,8 @@
+{
+  "nome": "Feiticeiro",
+  "dado_vida": 6,
+  "proficiencias": ["Adagas", "Dardos", "Fuinhas", "Bordões", "Bestas leves"],
+  "resistencias": ["Constituicao", "Carisma"],
+  "pericias": ["Arcanismo", "Enganacao", "Intuicao", "Intimidacao", "Persuasao", "Religiao"],
+  "numero_pericias_escolha": 2
+}

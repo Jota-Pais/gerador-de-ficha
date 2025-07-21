@@ -1,0 +1,15 @@
+{
+  "nome": "Alto Elfo",
+  "bonus_atributos": { "Destreza": 2, "Inteligência": 1 },
+  "tracos": [
+    "VisaoNoEscuro",
+    "SentidosAgucados",
+    "AncestralFeerico",
+    "Transe",
+    "TreinamentoComArmasElficas",
+    "TruqueAdicional",
+    "IdiomaAdicional"
+  ],
+  "deslocamento": 9,
+  "idiomas": ["Comum", "Élfico"]
+}

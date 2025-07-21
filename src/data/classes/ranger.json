@@ -1,0 +1,8 @@
+{
+  "nome": "Ranger (Patrulheiro)",
+  "dado_vida": 10,
+  "proficiencias": ["Armaduras leves", "Armaduras médias", "Escudos", "Armas simples", "Armas marciais"],
+  "resistencias": ["Forca", "Destreza"],
+  "pericias": ["Adestrar_Animais", "Atletismo", "Furtividade", "Intuicao", "Investigacao", "Natureza", "Percepcao", "Sobrevivencia"],
+  "numero_pericias_escolha": 3
+}

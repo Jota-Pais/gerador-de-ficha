@@ -1,0 +1,14 @@
+{
+  "nome": "Anão da Montanha",
+  "bonus_atributos": { "Constituição": 2, "Força": 2 },
+  "tracos": [
+    "VisaoNoEscuro",
+    "ResilienciaAna",
+    "TreinamentoAnaoEmCombate",
+    "ProficienciaComFerramentas",
+    "EspecializacaoEmRochas",
+    "TreinamentoAnaoComArmadura"
+  ],
+  "deslocamento": 7.5,
+  "idiomas": ["Comum", "Anão"]
+}

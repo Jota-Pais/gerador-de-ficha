@@ -1,0 +1,8 @@
+{
+  "nome": "Ladino",
+  "dado_vida": 8,
+  "proficiencias": ["Armaduras leves", "Armas simples", "Bestas de mão", "Espadas longas", "Rapiers", "Espadas curtas"],
+  "resistencias": ["Destreza", "Inteligencia"],
+  "pericias": ["Acrobacia", "Atletismo", "Atuacao", "Enganacao", "Furtividade", "Intimidacao", "Intuicao", "Investigacao", "Percepcao", "Persuasao", "Prestidigitacao"],
+  "numero_pericias_escolha": 4
+}
