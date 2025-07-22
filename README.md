@@ -70,7 +70,7 @@ Para rodar este projeto localmente, siga os passos abaixo.
 
 Estamos abertos a colaboradores que queiram aprender e ajudar a construir esta ferramenta\! Para garantir que o trabalho seja organizado, temos um fluxo de contribuição definido.
 
-Por favor, leia nosso **[GUIA DE CONTRIBUIÇÃO](https://www.google.com/search?q=CONTRIBUTING.md)** para entender nosso fluxo de trabalho, padrões de branch, e como abrir um Pull Request.
+Por favor, leia nosso **[GUIA DE CONTRIBUIÇÃO](https://github.com/Jota-Pais/gerador-de-ficha/blob/main/CONTRIBUTING.md)** para entender nosso fluxo de trabalho, padrões de branch, e como abrir um Pull Request.
 
 ## 📜 Licença
 
