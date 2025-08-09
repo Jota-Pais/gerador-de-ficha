@@ -14,3 +14,4 @@ Thumbs.db
 
 # Arquivos de ambiente (segredos nunca devem ir pro git!)
 .env
+/src/generated/prisma
